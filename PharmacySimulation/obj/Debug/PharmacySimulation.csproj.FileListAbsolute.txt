@@ -1,0 +1,17 @@
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\bin\Debug\PharmacySimulation.exe.config
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\bin\Debug\PharmacySimulation.exe.manifest
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\bin\Debug\PharmacySimulation.application
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\bin\Debug\PharmacySimulation.exe
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\bin\Debug\PharmacySimulation.pdb
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\bin\Debug\RandomNumberGeneratorsSilverlight.dll
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\MainWindow.baml
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\MainWindow.g.cs
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\App.g.cs
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\PharmacySimulation_MarkupCompile.cache
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\PharmacySimulation.g.resources
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\PharmacySimulation.Properties.Resources.resources
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\PharmacySimulation.csproj.GenerateResource.Cache
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\PharmacySimulation.exe.manifest
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\PharmacySimulation.application
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\PharmacySimulation.exe
+C:\Users\Irwansyah\Documents\Visual Studio 2013\Projects\PharmacySimulation\PharmacySimulation\obj\Debug\PharmacySimulation.pdb
